@@ -1,0 +1,175 @@
+@media only screen and (min-width: 200px) and (max-width: 992px) {
+
+    .main-container {
+        width: 95%;
+        background: #f2f2f2;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+
+    .topnav a {
+        padding: 4px 9px;
+    }
+
+    .head-box {
+        margin-left: -45px;
+    }
+
+    .head-box h1 {
+        font-size: 30px;
+    }
+
+    .header-img-area img {
+        width: 120px;
+
+    }
+
+    .notice-board-head h4 {
+        width: 40px;
+    }
+
+    .notice-board-head {
+        width: 100%;
+    }
+
+    .notice-board {
+        width: 100%;
+        height: auto;
+    }
+
+    .school-notice{
+        display: flex;
+        flex-direction: column;
+    }
+    .school-contact-con{
+        width: 100%;
+    }
+    .information-card{
+        margin-bottom: 25px;
+    }
+    .school-contact-view ul li {
+        width: 100%;
+    }
+
+    .some-information-box img {
+        width: 180px;
+        height: 200px;
+    }
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 768px) {
+
+
+    .main-container {
+        width: 95%;
+        background: #f2f2f2;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+
+
+    .main-body-left {
+        width: 65%;
+    }
+
+    .main-body-right {
+        width: 35%;
+    }
+
+    .school-contact-con {
+
+        width: 100%;
+    }
+
+    .information-card {
+        margin-bottom: 25px;
+    }
+
+    .head-and-co-head {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .person-quote-card {
+        width: 450px;
+    }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+
+
+    .header-img-area img {
+        width: 80px;
+        height: 120px;
+        clear: both;
+        margin-top: 45px;
+
+    }
+
+    
+    .head-box {
+        margin-left: 5px;
+        margin-top: -175px;
+    }
+
+    .head-box h1 {
+        font-size: 18px;
+    }
+
+    .head-box h4 {
+        line-height: 10px;
+        font-size: 14px;
+    }
+
+    .head-box h5 {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    
+    .notice-animate-text{
+        width: 100%;
+        background: lightcoral;
+    }
+    .animate-text-notice{
+        width: 100%;
+        padding: 0px;
+        background: transparent;
+    }
+    .animate-text-notice h5{
+        width: 100%;
+        padding: 0px;
+        font-size: 5.2px;
+         
+    }
+
+    .connect-main-body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main-body-left {
+        width: 100%;
+    }
+    .school-contact-view ul li{
+        width: 100%;
+    }
+
+    .school-contact-con{
+        width: 100%;
+    }
+    .notice-board{
+        width: 100%;
+    }
+    .person-quote-card{
+        width: 100%;
+    }
+ 
+    .main-body-right {
+        width: 100%;
+    }
+
+    .footer-content p{
+        font-size: 9px;
+    }
+
+}
